@@ -25,7 +25,7 @@ currently_learning:
   - Open Source Contribution Workflows
   - CNCF Ecosystem & Cloud Native Tools
 looking_for:
-  - Open Source Mentorship (LFX / GSoC)
+  - Open Source Mentorship (GSoC)
   - Collaboration on Security & Verification projects
 fun_fact: I build hardware verification frameworks and break crypto for fun 🔐
 ```
